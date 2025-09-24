@@ -6,7 +6,7 @@ int main (){
 	if (age >= 18){
 		printf("Eres apto para votar \n");
 	} else {
-		printf("No eres apto para votar todavía \n");
+		printf("No eres apto para votar todavÃ­a \n");
 	}
 	return 0;
 }
