@@ -25,7 +25,7 @@ main(){
 				for (ctr;ctr<num1;ctr++){
 					par=ctr%2;
 					if (par==0){
-						printf("%d",ctr);
+						printf(" %d",ctr);
 					}
 				}opc=2;
 			}else{
@@ -35,5 +35,6 @@ main(){
 		}
 	}
 }
+
 
 
