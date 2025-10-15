@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int num1, ctr=0, opc=1, num2, par, cont=0;
+int num1, ctr=0, opc=1, num2, par, opc=1, cont=0;
 
 main(){
 	printf("Numeros pares entre valores ingresados");
@@ -35,4 +35,5 @@ main(){
 		}
 	}
 }
+
 
